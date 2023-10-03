@@ -19,4 +19,6 @@ public class Main extends Application {
         primaryStage.setTitle("Vanzemaljci");
         primaryStage.show();
     }
+
+    // dodao sam ovaj komentar
 }
