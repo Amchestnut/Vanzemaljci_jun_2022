@@ -1,0 +1,22 @@
+Afrika: ima 8 Vanzemaljca
+	Egipat drzava ima: 8 vanzemaljaca
+Australija: ima 12 Vanzemaljca
+	Australija drzava ima: 12 vanzemaljaca
+Azija: ima 8 Vanzemaljca
+	Indija drzava ima: 3 vanzemaljaca
+	Japan drzava ima: 1 vanzemaljaca
+	Kina drzava ima: 4 vanzemaljaca
+Evropa: ima 18 Vanzemaljca
+	Francuska drzava ima: 2 vanzemaljaca
+	Grcka drzava ima: 3 vanzemaljaca
+	Italija drzava ima: 5 vanzemaljaca
+	Nemacka drzava ima: 4 vanzemaljaca
+	Rusija drzava ima: 0 vanzemaljaca
+	Spanija drzava ima: 4 vanzemaljaca
+	Srbija drzava ima: 2 vanzemaljaca
+Juzna Amerika: ima 4 Vanzemaljca
+	Argentina drzava ima: 1 vanzemaljaca
+	Brazil drzava ima: 3 vanzemaljaca
+Severna Amerika: ima 5 Vanzemaljca
+	Kanada drzava ima: 3 vanzemaljaca
+	SAD drzava ima: 2 vanzemaljaca
